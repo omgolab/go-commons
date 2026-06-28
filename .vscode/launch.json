@@ -6,7 +6,7 @@
             "request": "launch",
             "mode": "auto",
             "args": [],
-            "program": "/Volumes/Projects/business/AstronLab/omar391/go-commons/pkg/log/logger_test.go"
+            "program": "/Volumes/Projects/business/AstronLab/orgs/omgolab/go-commons/pkg/log/logger_test.go"
         }
     ]
 }
